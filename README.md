@@ -1,2 +1,12 @@
 # HumanUEGs
 The ubiquitously expressed genes in human (Housekeeping Genes)
+
+The ubiquitously expressed genes (UEGs) are expressed in almost all living cells of a multicellular organism and play an essential role in maintaining cellular processes and cell survival. As well as SEGs are strictly expressed in few tissue or cell types and usually have specific biological functions, and they are generally believed more likely associated with human diseases or to be a druggable target. In this work, we attempt to systematically characterize the complete set and the global expression patterns of UEGs in the human genome. Since the definition of the SEGs is deeply coupled to specific contexts and the definition of tissue/cell types, we will only treat SEGs as a whole. 
+
+Inspired by the concept of pan-genome and core-genome in bacterial field, we hereby proposed a novel analysis framework to systematically characterize human UEGs, which is the core component of human transcriptomes. Our framework bypasses the costly tissue/cell type stratification process and directly assesses the global expression pattern and expression specificity for each gene through the consideration of diverse transcriptomes. Unlike previous studies that only focus on produce a list of UEGs, our study not only focuses on the identification of the UEGs but also interested in determining their global expression patterns. 
+
+By analyzing the Recount2 dataset, we estimated the global expression specificity and the global expression patterns for each human gene. Our results provide quantitive evidence that there are about 13,142 human genes (52.65%) are ubiquitously expressed in at least 80% of human transcriptomes. Coupled with global expression pattern information, we observed that most (about 90.85%) of them have relatively stable expression levels. Our validation results in an independent dataset show a good agreement, supporting the generalizability of our observations. 
+
+To demonstrate the usefulness of our UEGs resource, we evaluated the global expression patterns of 16 previously predicted disallowed genes in islet beta cells and found that 7 of them have a more restricted or varied expression pattern than classic disallowed genes. It implies that the repression of these genes may not unique to islet beta cells, at least in term of expression level. 
+
+We believed our study provide a useful framework and resource for further functional genomics study. 
