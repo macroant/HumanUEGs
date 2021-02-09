@@ -1,6 +1,6 @@
 # HumanUEGs
 The ubiquitously expressed genes in human (Housekeeping Genes) (submitted for review)
-<BR>This repository contains data, figures and tables found in BioRvix: Comprehensive Analysis of Ubiquitously Expressed Genes in Human, From a Data-Driven Perspective
+<BR>This repository contains informations could be found in BioRvix: Comprehensive Analysis of Ubiquitously Expressed Genes in Human, From a Data-Driven Perspective
 
 The ubiquitously expressed genes (UEGs) are expressed in almost all living cells of a multicellular organism and play an essential role in maintaining cellular processes and cell survival. As well as SEGs are strictly expressed in few tissue or cell types and usually have specific biological functions, and they are generally believed more likely associated with human diseases or to be a druggable target. In this work, we attempt to systematically characterize the complete set and the global expression patterns of UEGs in the human genome. Since the definition of the SEGs is deeply coupled to specific contexts and the definition of tissue/cell types, we will only treat SEGs as a whole. 
 
